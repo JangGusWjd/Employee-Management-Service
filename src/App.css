@@ -1,0 +1,16 @@
+.Container {
+  width: 90%;
+  height: 240vh;
+  background: rgb(255, 255, 255);
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.staff-zip {
+  width: 90%;
+  height: 180vh;
+}
