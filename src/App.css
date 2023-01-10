@@ -1,16 +1,16 @@
 .Container {
-  width: 90%;
-  height: 240vh;
-  background: rgb(255, 255, 255);
+  width: 95%;
+  height: 95vh;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 2vh;
   display: flex;
-  flex-direction: column;
-  align-items: center;
+  padding-top: 1vh;
 }
 
 .staff-zip {
-  width: 90%;
-  height: 180vh;
+  width: 75%;
+  max-height: 95vh;
+  overflow-y: auto;
+  padding: 0rem 0.7rem 0.5rem 0.5rem;
+  background: whitesmoke;
 }
